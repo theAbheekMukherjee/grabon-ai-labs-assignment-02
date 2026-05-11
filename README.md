@@ -1,6 +1,7 @@
 # Assignment 02: The Loop — GrabOn Merchant Deal Audit Agent
 
 > **Submission by Abheek Mukherjee** | GrabOn AI Labs | Agentic AI Engineer Challenge 2026
+<img width="1316" height="1195" alt="image" src="https://github.com/user-attachments/assets/c1b6f6e0-53c6-432c-b308-061730fbc6d1" />
 
 ---
 
