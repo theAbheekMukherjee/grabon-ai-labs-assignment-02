@@ -353,4 +353,4 @@ All mocked tools return **realistically shaped responses**, not hardcoded `"ok"`
 ## Contact
 
 **Abheek Mukherjee**  
-`careers@grabon.in` | Subject: `AI Labs - Abheek Mukherjee - Assignment 02`
+`theabheekmukherjee@gmail.com` | Subject: `AI Labs - Abheek Mukherjee - Assignment 02`
